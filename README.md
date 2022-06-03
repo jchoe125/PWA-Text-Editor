@@ -48,7 +48,7 @@ THEN I should have proper build scripts for a webpack application
 If you have any questions, feel free to contact me via GitHub or email.
 
 [Github](https://github.com/jchoe125) | [email](joechoe125@gmail.com) | 
-[Repository](https://github.com/ryuandrew/PWA-Text-Editor) | [Deployed Website](https://artexteditor.herokuapp.com/)
+[Repository](https://github.com/jchoe125/PWA-Text-Editor) | [Deployed Website](https://jcsbpwatexteditor.herokuapp.com/)
 
 ---
 ## License
