@@ -42,7 +42,7 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
----https://jctexteditor.herokuapp.com/
+---
 ## Contribution
 
 If you have any questions, feel free to contact me via GitHub or email.
